@@ -1,16 +1,9 @@
-# themoviedb
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1701836249](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/b6b19a9e-0c02-4ed1-b6e1-afb9eab30863)
+![Screenshot_1701836277](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/7203e42c-9d31-4fc4-9065-c72259d46f46)
+![Screenshot_1701836277 — копия](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/f045fdee-c7c0-47de-8973-09d3eb0f2307)
+![Screenshot_1701836279](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/5b460875-8ec7-434f-95d1-4315238b7ff2)
+![Screenshot_1701836279 — копия](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/0c35ccd1-391f-43fc-993e-5b79a95f6a63)
+![Screenshot_1701836282](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/61adb75e-af84-4f6f-b157-78372b4a0514)
+![Screenshot_1701836286](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/5880461e-9d3e-4766-8c72-cf10c60fb047)
+![Screenshot_1701836296](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/558ca5be-c203-4848-9d3c-3da980872023)
+![Screenshot_1701836304](https://github.com/otabekmuradov/themoviedb_provider/assets/89445846/edfa6e9f-24e9-43bd-af13-04bdd17811ff)
